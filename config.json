@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadereender",
+        "uuid": 7582210,
+        "checksum": "e55zbg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
